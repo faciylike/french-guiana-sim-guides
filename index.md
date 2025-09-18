@@ -51,3 +51,10 @@ layout: default
 - **关于信号**：一旦离开主干道和城镇，心态要放平。享受雨林的静谧，暂时断开连接也不是坏事。
 
 　　说到底，在法属圭亚那保持连接，无非就是提前规划、选择适合自己的方案，然后保持一点随遇而安的心态。祝你在这片独特的土地上，探索顺利，网络通畅！
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [French Guiana eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/french-guiana-data-plans)
